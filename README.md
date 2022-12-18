@@ -8,7 +8,7 @@
 
 </div> 
 
-### 🖍️ 소개
+## 🖍️ 소개
 깃 리드미 작성에 사용하기 위해 만든 템플릿 입니다.
 - 누구나 복붙을 통해 빠르게 작성할 수 있습니다.
 - 필요한 기술 스택에 대한 logo는 [skills 폴더](skills)에서 다운로드 받을 수 있습니다.
@@ -24,7 +24,7 @@
 
 <br />
 
-### 🖍️ 기술 스택
+## 🖍️ 기술 스택
 ### Front-end
 ![frontend](https://user-images.githubusercontent.com/80824750/208293898-caddf00f-50c1-4ceb-a738-c64d59f6e136.png)
 
@@ -39,14 +39,14 @@
 
 <br />
 
-### 🖍️ 프로젝트 아키텍쳐
+## 🖍️ 프로젝트 아키텍쳐
 ![no-image](https://user-images.githubusercontent.com/80824750/208294567-738dd273-e137-4bbf-8307-aff64258fe03.png)
 
 
 
 <br />
 
-### 🖍️ 기술적 이슈와 해결 과정
+## 🖍️ 기술적 이슈와 해결 과정
 - 기술적 이슈를 작성합니다.
     - [해결 과정을 정리한 블로그 링크 등을 작성합니다.]()
 - 마크다운 문법 알아보기
@@ -54,7 +54,7 @@
 
 <br />
 
-### 🖍️ Members
+## 🖍️ Members
 |Backend|Frontend|
 |:---:|:---:|
 | ![](https://github.com/yewon-Noh.png?size=120) | ![](https://github.com/SeongHo-C.png?size=120) |
