@@ -14,6 +14,9 @@
 - 필요한 기술 스택에 대한 logo는 [skills 폴더](skills)에서 다운로드 받을 수 있습니다.
 
 
+<br />
+
+### 화면 구성
 |Screen #1|Screen #2|
 |:---:|:---:|
 |<img src="https://user-images.githubusercontent.com/80824750/208295340-30e42d9c-495c-4b7c-8a5d-93bea75ec05b.gif"/>|<img src="https://user-images.githubusercontent.com/80824750/208295340-30e42d9c-495c-4b7c-8a5d-93bea75ec05b.gif"/>|
