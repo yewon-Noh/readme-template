@@ -3,7 +3,7 @@
 
 ### 깃 리드미 템플릿 🖍️
 
-[<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/release-v0.0.0-critical?style=flat&logo=google-chrome&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />](https://github.com/yewon-Noh/readme-template/tree/main/frontend) [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />](https://github.com/yewon-Noh/readme-template/tree/main/frontend) [<img src="https://img.shields.io/badge/date-2022.12.10~2022.12.19-critical?style=flat&logo=google-chrome&logoColor=white" />]()
 
 
 </div> 
@@ -17,16 +17,20 @@
 <br />
 
 ### 화면 구성
-|Screen #1|Screen #2|
-|:---:|:---:|
-|<img src="https://user-images.githubusercontent.com/80824750/208295340-30e42d9c-495c-4b7c-8a5d-93bea75ec05b.gif"/>|<img src="https://user-images.githubusercontent.com/80824750/208295340-30e42d9c-495c-4b7c-8a5d-93bea75ec05b.gif"/>|
+|화면|
+|:---:|
+|<img src="https://user-images.githubusercontent.com/80824750/208456048-acbf44a8-cd71-4132-b35a-500047adbe1c.gif" width="600"/>|
+|심슨 입니다.|
 
+
+|화면|
+|:---:|
+|<img src="https://user-images.githubusercontent.com/80824750/208456234-fb5fe434-aa65-4d7a-b955-89098d5bbe0b.gif" width="600"/>|
 
 <br />
 
 ## ⚙ 기술 스택
 ### Front-end
-
 <div>
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/JavaScript.png?raw=true" width="80">
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/React.png?raw=true" width="80">
@@ -35,25 +39,24 @@
 
 ### Infra
 <div>
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Docker.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Jenkins.png?raw=true" width="80">
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/AWSEC2.png?raw=true" width="80">
+</div>
+
+### Tools
+<div>
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Github.png?raw=true" width="80">
+<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Notion.png?raw=true" width="80">
 </div>
 
 <br />
 
-## 🖍️ 프로젝트 아키텍쳐
-
-
-
-
-<br />
-
 ## 🤔 기술적 이슈와 해결 과정
-- 기술적 이슈를 작성합니다.
-    - [해결 과정을 정리한 블로그 링크 등을 작성합니다.]()
-- 마크다운 문법 알아보기
-    - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/#extended-syntax)
+- CORS 이슈
+    - [Axios message: 'Network Error'(CORS 오류)](https://leeseong010.tistory.com/117)
+- api 호출 시 중복되는 헤더 작업 간소화하기
+    - [axios interceptor 적용하기](https://leeseong010.tistory.com/133)
+- axios 요청하기
+    - [axios delete 요청 시 body에 data 넣는 방법](https://leeseong010.tistory.com/111)
 
 <br />
 
