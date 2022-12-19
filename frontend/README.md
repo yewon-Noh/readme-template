@@ -3,7 +3,7 @@
 
 ### 깃 리드미 템플릿 🖍️
 
-[<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />](https://github.com/yewon-Noh/readme-template/tree/main/frontend) [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />](https://github.com/yewon-Noh/readme-template/tree/main/frontend) [<img src="https://img.shields.io/badge/date-2022.12.10~2022.12.19-critical?style=flat&logo=google-chrome&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />](https://github.com/yewon-Noh/readme-template/tree/main/frontend) [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />](https://github.com/yewon-Noh/readme-template/tree/main/frontend) [<img src="https://img.shields.io/badge/프로젝트 기간-2022.12 ~ 2022.12-fab2ac?style=flat&logoColor=white" />]()
 
 
 </div> 
